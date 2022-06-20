@@ -43,6 +43,7 @@ dependencies:
   sticky_and_expandable_list: ^1.0.1
   firebase_messaging: ^10.0.6
   get_it: ^7.2.0
+  realm: ^0.2.1+alpha
 
 dev_dependencies:
   flutter_test:
